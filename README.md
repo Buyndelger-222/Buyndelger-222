@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Buyndelger-222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Buyndelger-222/Buyndelger-222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
+
+
 
 // Copyright 2018 The Flutter team. All rights reserved.
 // Use of this source code is governed by a BSD-style license that can be
@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
   // #docregion build
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp
       title: 'ХАБЭА-н зөвлөмж мэдээлэл',
       home: Scaffold(
         appBar: AppBar(
